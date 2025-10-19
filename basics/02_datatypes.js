@@ -14,4 +14,4 @@
   // symbol -> unique
 
   // object
-  console.log(typeof )
+  console.log(typeof name)
